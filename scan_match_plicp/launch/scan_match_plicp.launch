@@ -1,0 +1,5 @@
+<launch>
+    <include file="$(find bm_scan)/launch/bm661.launch"/>
+    <node name="scan_match_plicp_node"
+    pkg="scan_match_plicp" type="scan_match_plicp_node" output="screen"/>
+</launch>

@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/think/cartographer_detailed_comments_ws/install_isolated/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/think/catkin_ws/laser_ws/src/bm661/include/**",
+        "/home/think/catkin_ws/laser_ws/src/lakibeam1_ros_v0_2_6/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson2/include/**",
+        "/home/think/catkin_ws/laser_ws/src/plicpodometry/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson4/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson5/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson6/include/**",
+        "/home/think/catkin_ws/laser_ws/src/scan2pointcloud/include/**",
+        "/home/think/catkin_ws/laser_ws/src/scan_match_plicp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
